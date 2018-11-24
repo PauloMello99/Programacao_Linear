@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Programação_Linear</string>
+    <string name="verify_string">Verifique os valores desta linha.</string>
+    <string name="rest">Restrição</string>
+    <string name="fo_max">FO MAX</string>
+    <string name="calculate">Calcular</string>
+    <string name="error_catch_matrix">Erro ao capturar informações:</string>
+    <string name="error_parse_matrix">Erro ao converter informações:</string>
+    <string name="error_get_array">Erro ao buscar matriz</string>
+    <string name="alg_num">Algoritmo #</string>
+    <string name="calculated_algs">Algoritmos calculados:</string>
+    <string name="first_alg">Algoritmo #1</string>
+    <string name="not_best_solution">Não é a melhor solução...</string>
+    <string name="get_var">Informe a quantidade de variáveis</string>
+    <string name="get_rest">Informe a quantidade de restrições</string>
+    <string name="zero">0</string>
+</resources>
